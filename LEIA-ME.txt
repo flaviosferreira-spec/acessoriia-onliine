@@ -1,0 +1,23 @@
+SITE INFORMATIVO - VOTORANTIM CIMENTOS
+========================================
+
+Arquivos:
+- index.html: página principal
+- sobre.html: apresentação e aviso de independência
+- privacidade.html: política de privacidade (modelo a revisar)
+- termos.html: termos de uso
+- assets/: CSS, JavaScript e imagens fornecidas
+
+COMO VISUALIZAR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta extraída.
+3. Dê dois cliques em index.html.
+4. Para publicar, envie todos os arquivos e a pasta assets para a hospedagem, preservando a estrutura.
+
+IMPORTANTE
+- O site é um modelo independente e não se declara canal oficial da empresa.
+- Não há garantia de aprovação no Google Ads. Revise políticas, destino, identidade do anunciante e conteúdo.
+- Confirme autorização para usar nome, marcas e imagens antes de publicar.
+- Revise os dados cadastrais e os contatos com fontes oficiais.
+- A política de privacidade e os termos são modelos e devem ser adequados às práticas reais, especialmente se instalar Google Ads tags, Analytics, formulários ou pixels.
+- Bootstrap e Font Awesome são carregados por CDN; a visualização completa requer internet.
